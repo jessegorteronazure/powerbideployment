@@ -1,0 +1,10 @@
+{
+    "Reports":[
+    {
+        "FileName": "AW.pbix",
+        "Name": "AW",
+        "Workspace": "AW",
+        "Dataset": "AW"
+    }
+    ]
+}
