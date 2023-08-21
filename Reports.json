@@ -4,6 +4,7 @@
         "FileName": "AW.pbix",
         "Name": "AW",
         "Workspace": "AW",
+        "WorkspaceDataset": "AW",
         "Dataset": "AW"
     }
     ]
